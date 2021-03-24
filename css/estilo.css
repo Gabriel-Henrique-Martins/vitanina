@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+#Titulo{
+text-align: center;
+padding-top: 8px;
+}
+#subtitulo{
+text-align: center;
+padding-bottom: 16px;
+}
+#topodosite{
+background-color: #21022d;
+color: white;
+}
+#corpodosite{
+background-color: #e2d8e7;
+color: #21022d;
+margin: 24px;
+}
+#informacoes{
+text-align: center;
+background-color:#21022d ;
+color: white
+}
+
+#zerolactose{
+text-align: center;
+}
+#zero-lactose{
+width: 600px;
+height: 300px;
+}
+#semlactose{
+text-align: center;
+}
+.imagens{
+width: 150px;
+height: 150px;
+}
+#cardapio{
+margin-left: 16px;
+padding-top: 16px;
+}
+#vitaminas{
+margin-left: 64px;
+margin-top: 32px;
+}
+#vitaminaaçai{
+padding-top: 32px;
+}
+#vitamina-banana-com-aveia{
+padding-top: 32px;
+}
+#vitaminamorango{
+padding-top: 32px;
+}
+#vitaminapessego{
+padding-top: 32px;
+}
+#vitaminaroma{
+padding-top: 32px;
+}
+#lactose{
+padding-top: 64px;
+}
